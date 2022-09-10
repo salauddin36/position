@@ -10,7 +10,7 @@ body{
     width: 800px;
     height: 800px;
 }
-.p2{background-color: white;
+.p2{background-color: wheat;
     border: 2px solid black;
     border-radius: 20px;
     width: 350px;
@@ -19,7 +19,7 @@ body{
     top: 400px;
     left: 400px;
 }
-.p3{background-color:gray;
+.p3{background-color:antiquewhite;
     border: 2px solid black;
     border-radius: 20px;
     width: 300px;
@@ -28,7 +28,7 @@ body{
     top: 25px;
     left: 25px;
 }
-.p4{background-color: white;
+.p4{background-color: wheat;
     border: 2px solid black;
     border-radius: 20px;
     width: 250px;
@@ -37,7 +37,7 @@ body{
     top: 25px;
     left: 25px;
 }
-.p5{background-color:gray;
+.p5{background-color:antiquewhite;
     border: 2px solid black;
     border-radius: 20px;
     width: 200px;
@@ -46,7 +46,7 @@ body{
     top: 25px;
     left: 25px;
 }
-.p6{background-color: white;
+.p6{background-color: wheat;
     border: 2px solid black;
     border-radius: 20px;
     width: 150px;
@@ -55,7 +55,7 @@ body{
     top: 25px;
     left: 25px;
 }
-.p7{background-color:gray;
+.p7{background-color:antiquewhite;
     border: 2px solid black;
     border-radius: 20px;
     width: 100px;
@@ -64,7 +64,7 @@ body{
     top: 25px;
     left: 25px;
 }
-.p8{background-color: white;
+.p8{background-color: wheat;
     border: 2px solid black;
     border-radius: 20px;
     width: 50px;
